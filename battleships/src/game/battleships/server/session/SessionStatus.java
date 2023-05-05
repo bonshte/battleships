@@ -1,0 +1,19 @@
+package game.battleships.server.session;
+
+public enum SessionStatus {
+    CONNECTED,
+    AUTHENTICATION_MENU,
+    DISCONNECTED,
+    REGISTERING_USERNAME,
+    REGISTERING_PASSWORD,
+    LOGGING_USERNAME,
+    LOGGING_PASSWORD,
+    MAIN_MENU,
+    BROWSE_LOBBIES_MENU,
+    SAVED_GAMES_MENU,
+    LOBBY_MENU,
+    MAKING_COMPOSITION,
+    SPECTATING,
+    IN_GAME,
+
+}

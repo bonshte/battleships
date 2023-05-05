@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-14T14:44:22.807891Z</date>
+  <millis>1676385862807</millis>
+  <nanos>891000</nanos>
+  <sequence>0</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.authentication.RegisterUsernameRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>client tried to register with invalid username format</message>
+</record>
+<record>
+  <date>2023-02-14T14:44:40.904897Z</date>
+  <millis>1676385880904</millis>
+  <nanos>897000</nanos>
+  <sequence>1</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.authentication.RegisterPasswordRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>client tried to register with invalid password format</message>
+</record>
+<record>
+  <date>2023-02-14T14:45:39.402970Z</date>
+  <millis>1676385939402</millis>
+  <nanos>970000</nanos>
+  <sequence>2</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.authentication.LoggingPasswordRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>failed log in</message>
+</record>
+<record>
+  <date>2023-02-14T14:45:49.381723Z</date>
+  <millis>1676385949381</millis>
+  <nanos>723000</nanos>
+  <sequence>3</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.authentication.LoggingPasswordRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>failed log in</message>
+</record>
+<record>
+  <date>2023-02-14T14:46:03.224300Z</date>
+  <millis>1676385963224</millis>
+  <nanos>300000</nanos>
+  <sequence>4</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.authentication.LoggingPasswordRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>failed log in</message>
+</record>
+<record>
+  <date>2023-02-14T14:46:18.296120Z</date>
+  <millis>1676385978296</millis>
+  <nanos>120000</nanos>
+  <sequence>5</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.authentication.LoggingPasswordRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>failed log in</message>
+</record>
+<record>
+  <date>2023-02-14T14:46:38.652068Z</date>
+  <millis>1676385998652</millis>
+  <nanos>68000</nanos>
+  <sequence>6</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.authentication.LoggingPasswordRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>failed log in</message>
+</record>
+<record>
+  <date>2023-02-14T14:46:43.768195Z</date>
+  <millis>1676386003768</millis>
+  <nanos>195000</nanos>
+  <sequence>7</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.authentication.LoggingPasswordRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>failed log in</message>
+</record>
+<record>
+  <date>2023-02-14T14:48:44.927775Z</date>
+  <millis>1676386124927</millis>
+  <nanos>775000</nanos>
+  <sequence>8</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.composition.MakingCompositionRequestHandler</class>
+  <method>shipGenerateCommandHandle</method>
+  <thread>23</thread>
+  <message>invalid length for a ship passedA1-A4</message>
+</record>
+<record>
+  <date>2023-02-14T14:48:54.929116Z</date>
+  <millis>1676386134929</millis>
+  <nanos>116000</nanos>
+  <sequence>9</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.composition.MakingCompositionRequestHandler</class>
+  <method>shipGenerateCommandHandle</method>
+  <thread>23</thread>
+  <message>invalid ship parameters passedA1-B2</message>
+</record>
+<record>
+  <date>2023-02-14T14:49:00.462407Z</date>
+  <millis>1676386140462</millis>
+  <nanos>407000</nanos>
+  <sequence>10</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.composition.MakingCompositionRequestHandler</class>
+  <method>shipGenerateCommandHandle</method>
+  <thread>23</thread>
+  <message>invalid ship parameters passeddasdbjasd</message>
+</record>
+<record>
+  <date>2023-02-14T14:49:41.119478Z</date>
+  <millis>1676386181119</millis>
+  <nanos>478000</nanos>
+  <sequence>11</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.composition.MakingCompositionRequestHandler</class>
+  <method>shipGenerateCommandHandle</method>
+  <thread>23</thread>
+  <message>invalid ship parameters passedB8-B11</message>
+</record>
+<record>
+  <date>2023-02-14T14:49:56.747583Z</date>
+  <millis>1676386196747</millis>
+  <nanos>583000</nanos>
+  <sequence>12</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.composition.MakingCompositionRequestHandler</class>
+  <method>shipGenerateCommandHandle</method>
+  <thread>23</thread>
+  <message>invalid ship parameters passedK1-K3</message>
+</record>
+<record>
+  <date>2023-02-14T14:51:37.792564Z</date>
+  <millis>1676386297792</millis>
+  <nanos>564000</nanos>
+  <sequence>13</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>CONFIG</level>
+  <class>game.battleships.server.request.handler.authentication.LoggingPasswordRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>User1234 attempted to be logged from another destination</message>
+</record>
+<record>
+  <date>2023-02-14T14:52:25.917573Z</date>
+  <millis>1676386345917</millis>
+  <nanos>573000</nanos>
+  <sequence>14</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.authentication.AuthenticationMenuRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>client sent invalid command in authentication menu</message>
+</record>
+<record>
+  <date>2023-02-14T14:52:28.157657Z</date>
+  <millis>1676386348157</millis>
+  <nanos>657000</nanos>
+  <sequence>15</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.authentication.AuthenticationMenuRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>client sent invalid command in authentication menu</message>
+</record>
+<record>
+  <date>2023-02-14T14:59:47.341045Z</date>
+  <millis>1676386787341</millis>
+  <nanos>45000</nanos>
+  <sequence>16</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.menu.MainMenuRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>client sent invalid command in main menu</message>
+</record>
+<record>
+  <date>2023-02-14T14:59:49.838221Z</date>
+  <millis>1676386789838</millis>
+  <nanos>221000</nanos>
+  <sequence>17</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.menu.MainMenuRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>client sent invalid command in main menu</message>
+</record>
+<record>
+  <date>2023-02-14T15:00:18.948130Z</date>
+  <millis>1676386818948</millis>
+  <nanos>130000</nanos>
+  <sequence>18</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>CONFIG</level>
+  <class>game.battleships.server.BattleshipServer</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>client application shut down unexpectedly</message>
+</record>
+<record>
+  <date>2023-02-14T15:00:18.949604Z</date>
+  <millis>1676386818949</millis>
+  <nanos>604000</nanos>
+  <sequence>19</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>WARNING</level>
+  <class>game.battleships.server.session.Session</class>
+  <method>handleLeavingFromLobbySetUp</method>
+  <thread>23</thread>
+  <message>removing left player from lobby he was inside, error player is not in the lobbyplayer is not in the lobby</message>
+</record>
+<record>
+  <date>2023-02-14T15:00:24.862355Z</date>
+  <millis>1676386824862</millis>
+  <nanos>355000</nanos>
+  <sequence>20</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.menu.MainMenuRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>client sent invalid command in main menu</message>
+</record>
+<record>
+  <date>2023-02-14T15:00:27.130013Z</date>
+  <millis>1676386827130</millis>
+  <nanos>13000</nanos>
+  <sequence>21</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.menu.MainMenuRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>client sent invalid command in main menu</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-14T15:04:36.445148Z</date>
+  <millis>1676387076445</millis>
+  <nanos>148000</nanos>
+  <sequence>0</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>CONFIG</level>
+  <class>game.battleships.server.BattleshipServer</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>client application shut down unexpectedly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-16T20:29:45.340326Z</date>
+  <millis>1676579385340</millis>
+  <nanos>326000</nanos>
+  <sequence>0</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.authentication.RegisterPasswordRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>client tried to register with invalid password format</message>
+</record>
+<record>
+  <date>2023-02-16T20:30:11.395158Z</date>
+  <millis>1676579411395</millis>
+  <nanos>158000</nanos>
+  <sequence>1</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.authentication.LoggingPasswordRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>failed log in</message>
+</record>
+<record>
+  <date>2023-02-16T20:30:37.111548Z</date>
+  <millis>1676579437111</millis>
+  <nanos>548000</nanos>
+  <sequence>2</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>CONFIG</level>
+  <class>game.battleships.server.request.handler.authentication.LoggingPasswordRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>danbon attempted to be logged from another destination</message>
+</record>
+<record>
+  <date>2023-02-16T20:30:48.730819Z</date>
+  <millis>1676579448730</millis>
+  <nanos>819000</nanos>
+  <sequence>3</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.authentication.LoggingPasswordRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>failed log in</message>
+</record>
+<record>
+  <date>2023-02-16T20:31:39.351103Z</date>
+  <millis>1676579499351</millis>
+  <nanos>103000</nanos>
+  <sequence>4</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.authentication.LoggingPasswordRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>failed log in</message>
+</record>
+<record>
+  <date>2023-02-16T20:32:22.868019Z</date>
+  <millis>1676579542868</millis>
+  <nanos>19000</nanos>
+  <sequence>5</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.menu.MainMenuRequestHandler</class>
+  <method>handle</method>
+  <thread>23</thread>
+  <message>client sent invalid command in main menu</message>
+</record>
+<record>
+  <date>2023-02-16T20:34:30.976651Z</date>
+  <millis>1676579670976</millis>
+  <nanos>651000</nanos>
+  <sequence>6</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.composition.MakingCompositionRequestHandler</class>
+  <method>shipGenerateCommandHandle</method>
+  <thread>23</thread>
+  <message>invalid ship parameters passedK1-K2</message>
+</record>
+<record>
+  <date>2023-02-16T20:34:46.026130Z</date>
+  <millis>1676579686026</millis>
+  <nanos>130000</nanos>
+  <sequence>7</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.composition.MakingCompositionRequestHandler</class>
+  <method>shipGenerateCommandHandle</method>
+  <thread>23</thread>
+  <message>invalid ship parameters passedA1-B2</message>
+</record>
+<record>
+  <date>2023-02-16T20:38:26.458838Z</date>
+  <millis>1676579906458</millis>
+  <nanos>838000</nanos>
+  <sequence>8</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.composition.MakingCompositionRequestHandler</class>
+  <method>shipGenerateCommandHandle</method>
+  <thread>23</thread>
+  <message>invalid ship parameters passedready</message>
+</record>
+<record>
+  <date>2023-02-16T20:38:30.243447Z</date>
+  <millis>1676579910243</millis>
+  <nanos>447000</nanos>
+  <sequence>9</sequence>
+  <logger>game.battleships.server.logger.BattleshipLogger</logger>
+  <level>INFO</level>
+  <class>game.battleships.server.request.handler.composition.MakingCompositionRequestHandler</class>
+  <method>shipGenerateCommandHandle</method>
+  <thread>23</thread>
+  <message>invalid ship parameters passedi1-i5</message>
+</record>
+</log>
